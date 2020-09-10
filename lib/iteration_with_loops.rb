@@ -12,8 +12,8 @@ def find_min_in_nested_arrays(src)
     end
     lows_of_the_week << lowest_temp
     days += 1
-
   end
+  lows_of_the_week
 end
 
 
